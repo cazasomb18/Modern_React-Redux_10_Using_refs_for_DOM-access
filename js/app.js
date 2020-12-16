@@ -190,7 +190,7 @@
 		//Change spans calculation to reflect the new row height: 
 			const spans = Math.ceil(height / 10);
 		//Finally we change the grid-gap: rule:
-			grid-gap: 0 10;
+			// grid-gap: 0 10;
 				//==> 1st value 0 horizontal space, second value 10px horizaontal space
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 //App Review:
